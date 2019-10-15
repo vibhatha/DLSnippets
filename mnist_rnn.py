@@ -9,9 +9,9 @@ Original file is located at
 # Simple RNN with MNIST
 """
 
-!pip3 install tensorflow-gpu==2.0.0
-!pip3 install cloudmesh-installer
-!pip3 install cloudmesh-common
+#!pip3 install tensorflow-gpu==2.0.0
+#!pip3 install cloudmesh-installer
+#!pip3 install cloudmesh-common
 
 from __future__ import absolute_import
 from __future__ import division
